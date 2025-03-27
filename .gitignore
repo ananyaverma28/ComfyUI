@@ -1,1 +1,6 @@
 "python_embeded/Lib/site-packages/" 
+python_embeded/Lib/
+__pycache__/
+*.log
+*.pyc
+
